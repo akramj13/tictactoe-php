@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #333;
+    color: #fff;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    padding: 20 0 10 0;
+}
+
+#by {
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 10px 10px;
+}
+
+hr {
+    margin-left: 20px;
+    margin-right: 20px;
+}
